@@ -18,7 +18,7 @@ from sklearn.preprocessing import StandardScaler
 warnings.filterwarnings("ignore")
 
 # ── SET YOUR PATH ─────────────────────────────────────────────────
-CSV_PATH = r"C:\Users\u1194994\Downloads\manoj project\insurance.csv"
+CSV_PATH = "insurance.csv"
 # ─────────────────────────────────────────────────────────────────
 
 # Columns that are meaningless for prediction — always dropped
